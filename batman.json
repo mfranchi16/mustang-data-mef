@@ -1,0 +1,13 @@
+{
+	"firstname": "Bruce",
+	"lastname": "wayne",
+	"preferredName": "Batman",
+	"email": "darkknight@lewisu.edu"
+	"phoneNumber": "584-374-5609",
+	"city": "Gotham",
+	"state": "PA",
+	"zip": "34854",
+	"lat": "41.88",
+	"long": "-88.01",
+	"favoriteHobby": "Fighting Crime"
+}
