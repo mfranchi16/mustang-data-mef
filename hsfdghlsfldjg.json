@@ -1,0 +1,14 @@
+{
+	"firstname": "Mariano",
+	"lastname": "Franchi",
+	"preferredName": "Mario",
+	"email": "nottellingtheworld@no.com"
+	"phoneNumber": "123-456-7890",
+	"city": "Guess",
+	"state": "USA",
+	"zip": "34854",
+	"lat": "10.11",
+	"long": "-28.01",
+	"favoriteHobby": "Vacationing",
+	"nickName": "Enrico"
+}
